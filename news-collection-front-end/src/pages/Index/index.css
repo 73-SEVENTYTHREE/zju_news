@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 120px;
+    height: 1rem;
+    margin: 16px 24px 16px 0;
+    background: rgba(6, 22, 72, 0.3);
+}
+
+.ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    /*margin: 16px 0 16px 16px;*/
+}
+
+.site-layout-background {
+    background: #fff;
+    max-height: 92vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
