@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- coding:GBK -*-
 import requests
 from bs4 import BeautifulSoup
 from mysql import insertData

@@ -1,4 +1,4 @@
-#-*- coding:utf-8 -*-
+#-*- coding:GBK -*-
 import requests        #导入requests包
 from bs4 import BeautifulSoup
 from mysql import insertData
@@ -14,7 +14,7 @@ def getUrls(url):
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE'
     }
     strhtml = s.get(url, headers=headers)  # Get方式获取网页数据
-    strhtml.encoding = 'utf-8'
+    strhtml.encoding = 'GBK'
     soup = BeautifulSoup(strhtml.text, 'lxml')
     data = soup.select('.tit>a')
     sub_title = soup.select('.time')

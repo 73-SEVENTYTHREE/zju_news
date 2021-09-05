@@ -1,4 +1,4 @@
-#-*- coding:utf-8 -*-
+#-*- coding:GBK -*-
 import requests        #导入requests包
 from bs4 import BeautifulSoup
 from mysql import insertData
@@ -23,7 +23,7 @@ def getNews(base, postfixs):
     for postfix in postfixs:
         print("正在爬取第" + str(current_count) + "条新闻...")
         strhtml = s.get(base + postfix)
-        strhtml.encoding = 'utf-8'
+        strhtml.encoding = 'GBK'
         soup = BeautifulSoup(strhtml.text, 'lxml')
         if len(soup.select('#contentcn>.art-heading')) > 0:
             title = soup.select('#contentcn>.art-heading')[0].get_text()
