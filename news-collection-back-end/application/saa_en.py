@@ -1,4 +1,4 @@
-#-*- coding:GBK -*-
+#-*- coding:utf-8 -*-
 import requests        #导入requests包
 from bs4 import BeautifulSoup
 from mysql import insertData
@@ -10,7 +10,7 @@ current_count = 1
 def getUrls(url):
     global current_count
     strhtml = s.get(url)  # Get方式获取网页数据
-    strhtml.encoding = 'GBK'
+    strhtml.encoding = 'utf-8'
     soup = BeautifulSoup(strhtml.text, 'lxml')
     data = soup.select('.info>h1>a')
     sub_title = soup.select('.date')
