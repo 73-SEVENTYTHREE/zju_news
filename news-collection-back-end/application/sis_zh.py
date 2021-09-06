@@ -21,7 +21,7 @@ current_count = 1
 def getNews(base, postfixs):
     global current_count
     for postfix in postfixs:
-        print("正在爬取第" + str(current_count) + "条新闻...")
+        正在爬取第" + str(current_count) + "条新闻...")
         strhtml = requests.get(base + postfix)
         strhtml.encoding = 'utf-8'
         soup = BeautifulSoup(strhtml.text, 'lxml')

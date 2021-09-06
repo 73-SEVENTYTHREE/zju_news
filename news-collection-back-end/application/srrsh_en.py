@@ -19,7 +19,7 @@ def getUrls(url):
     data = soup.select('.news_list>li>div>a')
     sub_title = soup.select('.news_list>li>div>span')
     for i in range(0, len(data), 1):
-        print("正在爬取第" + str(current_count) + "条新闻...")
+        正在爬取第" + str(current_count) + "条新闻...")
         insertData('srrsh', ['en', data[i].get_text(), sub_title[i].get_text(), ("http://www.srrsh-english.com" if data[i].get('href')[0] != 'h' else "") + data[i].get('href')])
         time.sleep(1)
         current_count = current_count + 1

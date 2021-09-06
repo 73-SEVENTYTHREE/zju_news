@@ -16,7 +16,7 @@ def getUrls(url):
     title = soup.select('.tit3')
     sub_title = soup.select('.fbdate')
     for i in range(0, len(data), 1):
-        print("正在爬取第" + str(current_count) + "条新闻...")
+        正在爬取第" + str(current_count) + "条新闻...")
         insertData('ced', ['zh', title[i].get_text(), sub_title[i].get_text(), "http://www.ced.zju.edu.cn" + data[i].get('href')])
         current_count = current_count + 1
 
