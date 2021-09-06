@@ -34,7 +34,7 @@ function InfoShowList (props) {
     useEffect(() => {
         const getList = async () => {
             setLoading(true)
-            const info = (await axios.post ("http://localhost:4000/api/getList", {
+            const info = (await axios.post ("/api/getList", {
                 college,
                 language: category
             })).data
