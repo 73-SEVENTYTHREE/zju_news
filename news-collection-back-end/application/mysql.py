@@ -1,5 +1,5 @@
 import pymysql
-db = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='2569535507Lw', db='zjuNews', charset='utf8')
+db = pymysql.connect(host='127.0.0.1', port=3306, user='root', passwd='2569535507Lw', db='zjuNews', charset='utf8mb4')
 cursor = db.cursor()
 
 # 传入对应的表和数据

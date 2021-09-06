@@ -10,7 +10,7 @@ const table_names = ['cab', 'caefs', 'cas', 'cbeis', 'ccea', 'cec', 'ced', 'cers
 fs.readdir('./application', async (err, files) => {
     let executeFile = []
     files.forEach(item => {
-        if(item !== 'mysql.py' && item !== '.DS_Store' && item !== '.idea' && item !== '__pycache__')
+        if(item !== 'mysql.py' && item !== 'requirements.txt' && item !== '.DS_Store' && item !== '.idea' && item !== '__pycache__')
             executeFile.push(item)
     })
     for(let i = 0, length = table_names.length; i < length; i++){
