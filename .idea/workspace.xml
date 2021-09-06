@@ -2,7 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae593306-71cf-462b-bed9-1faba6b7bbff" name="默认变更列表" comment="前端路由全部录入完成">
-      <change beforePath="$PROJECT_DIR$/news-collection-back-end/refresh.sql" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/refresh.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cab_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cab_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cab_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cab_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/caefs_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/caefs_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/caefs_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/caefs_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cas_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cas_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cas_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cas_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cbeis_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cbeis_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cbeis_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cbeis_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ccea_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ccea_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ccea_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ccea_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cec_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cec_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cec_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cec_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ced_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ced_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ced_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ced_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cers_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cers_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cers_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cers_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ch_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ch_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ch_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ch_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/che_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/che_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/che_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/che_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/chem_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/chem_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/chem_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/chem_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cls_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cls_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cls_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cls_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cmic_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cmic_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cmic_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cmic_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cmm_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cmm_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cmm_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cmm_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cps_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cps_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cps_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cps_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cs_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cs_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cs_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cs_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cse_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cse_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cse_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cse_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cst_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cst_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/cst_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/cst_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/doe_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/doe_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/doe_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/doe_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ee_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ee_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ee_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ee_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ghls_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ghls_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/ghls_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/ghls_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/gs_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/gs_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/gs_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/gs_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/isee_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/isee_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/isee_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/isee_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/marx_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/marx_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/marx_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/marx_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/math_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/math_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/math_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/math_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/me_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/me_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/me_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/me_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/mse_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/mse_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/mse_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/mse_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/oc_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/oc_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/oc_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/oc_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/opt_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/opt_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/opt_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/opt_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/physics_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/physics_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/physics_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/physics_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/polymer_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/polymer_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/polymer_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/polymer_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/psych_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/psych_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/psych_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/psych_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/saa_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/saa_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/saa_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/saa_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/sis_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/sis_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/sis_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/sis_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/soaa_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/soaa_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/som_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/som_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/som_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/som_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/spa_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/spa_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/spa_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/spa_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/srrsh_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/srrsh_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/srrsh_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/srrsh_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/womanhospital_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/womanhospital_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/womanhospital_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/womanhospital_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/z2hospital_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/z2hospital_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/z2hospital_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/z2hospital_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/zjuch_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/zjuch_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/zjuch_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/zjuch_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/zy91_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/zy91_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/zy91_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/zy91_zh.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +153,7 @@
       <workItem from="1628229169534" duration="7399000" />
       <workItem from="1630424823115" duration="6217000" />
       <workItem from="1630818353120" duration="6153000" />
-      <workItem from="1630936307426" duration="8931000" />
+      <workItem from="1630936307426" duration="9438000" />
     </task>
     <task id="LOCAL-00001" summary="增加新闻表格">
       <created>1627365046391</created>

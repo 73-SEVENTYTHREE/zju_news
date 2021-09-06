@@ -15,7 +15,7 @@ def getUrls(url):
     data = soup.select('.n_info>a')
     sub_title = soup.select('.n_years')
     for i in range(0, len(data), 1):
-        正在爬取第" + str(current_count) + "条新闻...")
+        print("正在爬取第" + str(current_count) + "条新闻...")
         insertData('cls', ['en', data[i].get_text(), sub_title[i].get_text(), ("http://www.cls.en.zju.edu.cn" if data[i].get('href')[0] != 'h' else "") + data[i].get('href')])
         current_count = current_count + 1
 

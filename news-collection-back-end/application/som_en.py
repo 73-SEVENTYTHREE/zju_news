@@ -10,12 +10,12 @@ if __name__ == '__main__':
     s = requests.session()
     s.keep_alive = False  # 关闭多余连接
     for i in range(current_id, 0, -1):
-        正在爬取id为" + str(i) + "的新闻...")
+        print("正在爬取id为" + str(i) + "的新闻...")
         url = "http://en.som.zju.edu.cn/school/articleInfo.aspx?id=" + str(i)
         html = s.get(url)
         soup = BeautifulSoup(html.text, 'lxml')
         if len(soup.select('.newsinfo-a')) == 0:
-            当前新闻不存在...")
+            print("当前新闻不存在...")
             continue
         title = soup.select('.newsinfo-a')[0].get_text()
         time = soup.select('.newsinfo-b')[0].get_text()

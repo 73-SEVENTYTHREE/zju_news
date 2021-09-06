@@ -19,7 +19,7 @@ def getUrls(url):
     data = soup.select('h3>.f15-bdr')
     sub_title = soup.select('h3>.f-ft2')
     for i in range(0, len(data), 1):
-        正在爬取第" + str(current_count) + "条新闻...")
+        print("正在爬取第" + str(current_count) + "条新闻...")
         insertData('zy91', ['zh', data[i].get('title'), sub_title[i].get_text(), ("http://www.zy91.com" if data[i].get('href')[0] != 'h' else "") + data[i].get('href')])
         time.sleep(1)
         current_count = current_count + 1
