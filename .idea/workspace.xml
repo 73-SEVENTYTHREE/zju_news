@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae593306-71cf-462b-bed9-1faba6b7bbff" name="默认变更列表" comment="前端路由全部录入完成">
-      <change afterPath="$PROJECT_DIR$/news-collection-back-end/tables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList/tables.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/som_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/som_en.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-back-end/nohup.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-back-end/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-back-end/updateData.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/updateData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-front-end/src/pages/Index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/src/pages/Index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-front-end/src/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/src/routes/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-front-end/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/caefs_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/caefs_en.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +72,7 @@
       <workItem from="1628229169534" duration="7399000" />
       <workItem from="1630424823115" duration="6217000" />
       <workItem from="1630818353120" duration="6153000" />
-      <workItem from="1630936307426" duration="7171000" />
+      <workItem from="1630936307426" duration="7882000" />
     </task>
     <task id="LOCAL-00001" summary="增加新闻表格">
       <created>1627365046391</created>

@@ -20,5 +20,5 @@ def getUrls(url):
         current_count = current_count + 1
 
 if __name__ == '__main__':
-    for i in range(1, 3):
+    for i in range(0, 3):
         getUrls("http://www.caefs.zju.edu.cn/english/redir.php?catalog_id=113835" + ("" if i == 0 else ("&page=" + str(i))))
