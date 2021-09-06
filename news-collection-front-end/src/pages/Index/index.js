@@ -29,7 +29,7 @@ function Index(props) {
                 </div>
             </Header>
             <Layout>
-                <Sider width={280} className="site-layout-background">
+                <Sider width={250} className="site-layout-background">
                     <Menu
                         mode="inline"
                         style={{ height: '100%', borderRight: 0 }}

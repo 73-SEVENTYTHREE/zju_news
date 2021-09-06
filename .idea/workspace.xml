@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae593306-71cf-462b-bed9-1faba6b7bbff" name="默认变更列表" comment="前端路由全部录入完成">
+      <change afterPath="$PROJECT_DIR$/news-collection-back-end/tables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList/tables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/som_en.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/som_en.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/nohup.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/updateData.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/updateData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-front-end/src/pages/Index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/src/pages/Index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-front-end/src/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/src/routes/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-front-end/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-front-end/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vsqzCDFgDWZirgiFvgUglDhoJa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/news-collection-front-end/src" />
+      <recent name="$PROJECT_DIR$/news-collection-front-end" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/news-collection-front-end/src/pages/index" />
+      <recent name="$PROJECT_DIR$/news-collection-front-end/src/components/InfoShowList" />
+      <recent name="$PROJECT_DIR$/news-collection-front-end/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ae593306-71cf-462b-bed9-1faba6b7bbff" name="默认变更列表" comment="" />
+      <created>1627361404085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627361404085</updated>
+      <workItem from="1627361405481" duration="15085000" />
+      <workItem from="1627535892649" duration="193000" />
+      <workItem from="1627536125380" duration="8012000" />
+      <workItem from="1628229169534" duration="7399000" />
+      <workItem from="1630424823115" duration="6217000" />
+      <workItem from="1630818353120" duration="6153000" />
+      <workItem from="1630936307426" duration="7171000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加新闻表格">
+      <created>1627365046391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627365046391</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更改主题配色">
+      <created>1627365539510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627365539510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="前端路由全部录入完成">
+      <created>1627487915231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627487915231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加新闻表格" />
+    <MESSAGE value="更改主题配色" />
+    <MESSAGE value="前端路由全部录入完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端路由全部录入完成" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

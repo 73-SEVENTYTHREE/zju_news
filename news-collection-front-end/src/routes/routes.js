@@ -15,6 +15,19 @@
  */
 export default [
     {
+      name: '最新新闻',
+      routes: [
+          {
+              name: '中文新闻汇总',
+              route: '/index/newsList/recent/zh'
+          },
+          {
+              name: '英文新闻汇总',
+              route: '/index/newsList/recent/en'
+          }
+      ]
+    },
+    {
         name:'人文学院',
         routes:[
             {
