@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae593306-71cf-462b-bed9-1faba6b7bbff" name="默认变更列表" comment="前端路由全部录入完成">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-collection-back-end/application/caefs_zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/application/caefs_zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-collection-back-end/refresh.sql" beforeDir="false" afterPath="$PROJECT_DIR$/news-collection-back-end/refresh.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <workItem from="1628229169534" duration="7399000" />
       <workItem from="1630424823115" duration="6217000" />
       <workItem from="1630818353120" duration="6153000" />
-      <workItem from="1630936307426" duration="8532000" />
+      <workItem from="1630936307426" duration="8931000" />
     </task>
     <task id="LOCAL-00001" summary="增加新闻表格">
       <created>1627365046391</created>
