@@ -41,8 +41,11 @@ const getName = college => {
 
 function InfoShowList (props) {
     const {college, category} = props.match.params
-    const name = props.location.state ? props.location.state.name : ''
-    const websiteType = props.location.state? props.location.state.category :''
+    const name = ''
+    const websiteType = ''
+    if(getName(college)) name = getName(college)
+    if(window.location.href[window.location.href.length - 1] === 'h') websiteType='中文网'
+    else websiteType = '英文网'
     console.log(name, websiteType)
     const [data,setData] = useState([])
     const [loading, setLoading] = useState(false)
@@ -80,7 +83,7 @@ function InfoShowList (props) {
                             {
                                 tables.map((item, index) =>
                                     <>
-                                        <Card id={item} key={index} href={`#${item}`} title={<a href={`#${item}`}>{getName(item) + '——' + websiteType.substring(0, websiteType.length - 2)}</a>} style={{border:'0', maxHeight:'80vh', overflow: 'auto'}}>
+                                        <Card id={item} key={index} href={`#${item}`} title={<a href={`#${item}`}>{getName(item) + '——' + websiteType}</a>} style={{border:'0', maxHeight:'80vh', overflow: 'auto'}}>
                                             <Table columns={columns} dataSource={data[item]} loading={loading} pagination={false}/>
                                         </Card>
                                     </>
