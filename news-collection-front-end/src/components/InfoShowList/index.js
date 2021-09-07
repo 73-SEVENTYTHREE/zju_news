@@ -41,8 +41,8 @@ const getName = college => {
 
 function InfoShowList (props) {
     const {college, category} = props.match.params
-    const name = ''
-    const websiteType = ''
+    let name = ''
+    let websiteType = ''
     if(getName(college)) name = getName(college)
     if(window.location.href[window.location.href.length - 1] === 'h') websiteType='中文网'
     else websiteType = '英文网'
