@@ -40,7 +40,7 @@ function Index(props) {
                                     <SubMenu key={index} icon={<BookOutlined />} title={item.name}>
                                         {
                                             item.routes.map((item2, index2) => (
-                                                <Menu.Item onClick={() => {props.history.push({pathname:item2.route})}}>{item2.name}</Menu.Item>
+                                                <Menu.Item onClick={() => {window.location.href = 'http://121.43.170.102' + item2.route}>{item2.name}</Menu.Item>
                                             ))
                                         }
                                     </SubMenu>
